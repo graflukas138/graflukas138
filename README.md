@@ -1,3 +1,3 @@
-- 👋 Hi, I’m Lukas Graf. I'm a PhD Student at the University of Helsinki in ... Helsinki. I
-- 👀 I’m interested in Spatial Analysis in R and Python, GPS-Telemetry and forest growth modelling. 
-- 📫 Reach me on twitter (@graf_gruen) or via mail: lukas.graf@helsinki.fi
+- 👋 Hi, I’m Lukas Graf. I'm a PhD Student at the University of Helsinki in ... Helsinki.
+- 👀 I’m interested in Spatial Analysis 
+- 📫 Reach me on twitter (@graf_gruen) or via mail: graflukas57@gmail.com
